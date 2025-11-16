@@ -1,2 +1,2 @@
-# Excel for Data Analytics Course
-Salary Calculator Dashboard
+# Salary Calculator Dashboard
+Data Science Jobs Salary Calculator Dashboard
